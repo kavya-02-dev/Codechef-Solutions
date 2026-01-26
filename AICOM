@@ -1,0 +1,2 @@
+n=int(input())# cook your dish here
+print("YES" if n <= 60 else "NO")
